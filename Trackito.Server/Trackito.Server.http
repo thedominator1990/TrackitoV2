@@ -1,0 +1,6 @@
+@Trackito.Server_HostAddress = http://localhost:5051
+
+GET {{Trackito.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
